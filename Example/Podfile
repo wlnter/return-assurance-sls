@@ -1,0 +1,6 @@
+use_frameworks!
+target 'return-assurance-sls_Tests' do
+  pod 'return-assurance-sls', :path => '../'
+  
+  
+end
